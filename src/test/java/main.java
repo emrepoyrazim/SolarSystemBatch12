@@ -19,5 +19,12 @@ public class main {
         FacX.radius="7382818381km";
         FacX.size="999999999m";
 
+        // adding planet2 code
+
+        Planet2 Oslo = new Planet2();
+        Oslo.color="pink";
+        Oslo.size="0.000001";
+        Oslo.name="panter";
+
     }
 }
